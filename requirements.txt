@@ -1,7 +1,7 @@
 pandas
 numpy
 scipy
-sklearn.preprocessing
+sklearn
 pickle
 streamlit
 matplotlib.pyplot
